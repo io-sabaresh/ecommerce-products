@@ -6,7 +6,7 @@ module.exports = {
      * Environment Variable Constants
      */
     // Server Port
-    PORT: process.env.PORT || 5000,
+    PORT: process.env.PORT || 5100,
     // Email Sent from
     EMAIL_FROM: process.env.EMAIL_FROM,
     // JWT Managed by Headers/cookies
