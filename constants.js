@@ -19,6 +19,8 @@ module.exports = {
     MONGO_CONNECTION_STRING: process.env.MONGO_CONNECTION_STRING,
     // Users Service domain
     USERS_SERVICE: process.env.USERS_SERVICE,
+    // API end point to fetch user from User services
+    TOKEN_VERIFICATION_API: process.env.TOKEN_VERIFICATION_API,
     /**
      * Global Constants
      */
